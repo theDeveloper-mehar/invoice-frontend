@@ -44,9 +44,9 @@ replace baseURL: "http://localhost:5000/api with this
 npm install
 
 8. Create .env file in backend folder
-paste this code
-PORT=5000
-MONGO_URL = mongodb://localhost:27017/invoice_app
+paste this code <br>
+PORT=5000 <br>
+MONGO_URL = mongodb://localhost:27017/invoice_app<br>
 JWT_SECRET = km@2708
 
 10. Start development server frontend:

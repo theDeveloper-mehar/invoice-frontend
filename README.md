@@ -49,10 +49,10 @@ PORT=5000
 MONGO_URL = mongodb://localhost:27017/invoice_app
 JWT_SECRET = km@2708
 
-9. Start development server frontend:
+10. Start development server frontend:
 npm run dev
 
-10. Start development server backend in new terminal:
+11. Start development server backend in new terminal:
 npm start
 
 App runs at:

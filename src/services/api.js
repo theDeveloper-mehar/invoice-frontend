@@ -10,7 +10,7 @@ it defines automatically base urland autopmatically attaches authentication toke
 import axios from 'axios';
 
 const API = axios.create({
-   baseURL: "https://invoice-backend-ao12.onrender.com/"
+   baseURL: "https://invoice-backend-ao12.onrender.com/api"
 });
 
 API.interceptors.request.use((req)=>
